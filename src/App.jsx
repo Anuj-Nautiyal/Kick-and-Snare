@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import './App.css'
-import Drumpad from './assets/components/Drumpad'
+import Drumpad from './components/Drumpad'
 
 function App() {
 
